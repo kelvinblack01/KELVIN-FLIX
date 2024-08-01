@@ -7,8 +7,8 @@ body {
 }
 
 
-header{
-    border-bottom:solid 3px #800080;
+header {
+    border-bottom: solid 3px #800080;
     padding: 20px;
     font-size: 40px;
     color: #800080;
@@ -16,7 +16,7 @@ header{
 }
 
 
-.Start{
+.Start {
     background: #2d76ff;
     padding-bottom: 80px;
     padding-top: 80px;
@@ -24,47 +24,47 @@ header{
     justify-content: center;
 }
 
-.Texto1{
+.Texto1 {
     margin-right: 5%;
 }
 
-h1{
+h1 {
     font-size: 30px;
 }
 
-p{
+p {
     font-size: 15px;
 }
 
 
-.Categorias-de-video{
+.Categorias-de-video {
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
 
-.Films{
+.Films {
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
 }
 
-.Categorias-de-video img{
+.Categorias-de-video img {
     opacity: 0.5;
     height: 200px;
 }
 
-.Categorias-de-video img:hover{
+.Categorias-de-video img:hover {
     opacity: 1.0;
     border: 1px solid #ffff00;
 }
 
-.Films h2{
-    color:#dc143c
+.Films h2 {
+    color: #dc143c
 }
 
 
-.SubTitle{
+.SubTitle {
     margin-block-start: -2em;
     margin-block-end: 0em;
     font-size: 11px;
